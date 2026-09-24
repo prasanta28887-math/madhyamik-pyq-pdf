@@ -1,0 +1,819 @@
+{
+  "header": {
+    "paperCode": "WB-MADHYAMIK-MATH-2025-ENG",
+    "year": "2025",
+    "subject": "MATHEMATICS",
+    "compulsory": "",
+    "time": "3 Hours 15 Minutes",
+    "readingTime": "(First 15 minutes for reading the question paper)",
+    "marksRegular": "90",
+    "marksExternal": "100",
+    "instructions": "Special credit will be given for answers which are brief and to the point.\nMarks will be deducted for spelling mistakes, untidiness & bad handwriting.",
+    "bengaliInstructions": "[ The answers of the Question Nos. 1, 2, 3, 4 are to be written at the beginning of the answer script mentioning the question numbers in the serial order. Necessary calculation and drawing must be given on the right hand side by drawing margins on the first few pages on the answer script. Tables and Calculators of any type are not allowed. Approximate value of $\\pi $ may be taken as $\\frac{22}{7}$, if required. Graph paper will be supplied with question paper. Arithmetic problems may be solved by algebraic method ]\n[Alternative Question No. 11 is given for sightless candidates on Page No. 15]",
+    "footerLeft": "ZD - 4864",
+    "footerRight": "(Contd.)"
+  },
+  "sections": [
+    {
+      "id": "sec_1",
+      "name": "",
+      "marks": "",
+      "questions": [
+        {
+          "id": "q_1",
+          "type": "mcq-group",
+          "number": "1",
+          "heading": "Choose the correct option in each case from the following :",
+          "headingMarks": "$1 \\times 6 = 6$",
+          "text": "",
+          "alt": "",
+          "altText": "",
+          "marks": "",
+          "options": [],
+          "matchA": [],
+          "matchB": [],
+          "subQuestions": [],
+          "subMCQs": [
+            {
+              "label": "(i)",
+              "text": "27, 31, 46, 52, $x$, $y + 2$, 71, 79, 85, 90 are in increasing order. If the median is 64, then the value of $x + y$ is",
+              "options": [
+                "125",
+                "126",
+                "127",
+                "128"
+              ]
+            },
+            {
+              "label": "(ii)",
+              "text": "The radius of a right circular cylinder and a hemisphere is equal and their volumes are also equal. The height of the hemisphere is greater than the height of the cylinder by",
+              "options": [
+                "25%",
+                "50%",
+                "100%",
+                "200%"
+              ]
+            },
+            {
+              "label": "(iii)",
+              "text": "The lengths of three sides of a triangle are sec $\\theta$, 1 and tan $\\theta$ ($\\theta \\neq 90^\\circ$). The value of the greatest angle of the triangle is",
+              "options": [
+                "30°",
+                "45°",
+                "60°",
+                "90°"
+              ]
+            },
+            {
+              "label": "(iv)",
+              "text": "$AB$ is a diameter of a circle with centre $O$. If the chord $AC$ subtends $\\angle 60^\\circ$ at the centre then value of $\\angle OCB$ is",
+              "options": [
+                "20°",
+                "30°",
+                "40°",
+                "50°"
+              ]
+            },
+            {
+              "label": "(v)",
+              "text": "If $a : 2 = b : 5$ then how many % of $b$ is $a$",
+              "options": [
+                "20",
+                "30",
+                "40",
+                "50"
+              ]
+            },
+            {
+              "label": "(vi)",
+              "text": "Simple interest of Rs. $Y$ for $Z$ month at the rate of $X$% per annum is",
+              "options": [
+                "Rs. $\\frac{XYZ}{1200}$",
+                "Rs. $\\frac{XYZ}{100}$",
+                "Rs. $\\frac{XYZ}{200}$",
+                "Rs. $\\frac{XYZ}{120}$"
+              ]
+            }
+          ],
+          "tableText": "",
+          "diagramNote": ""
+        }
+      ]
+    },
+    {
+      "id": "sec_2",
+      "name": "",
+      "marks": "",
+      "questions": [
+        {
+          "id": "q_2",
+          "type": "fill",
+          "number": "2",
+          "heading": "Fill up the blanks (any five) :",
+          "headingMarks": "$1 \\times 5 = 5$",
+          "text": "",
+          "options": [],
+          "alt": "",
+          "altText": "",
+          "marks": "",
+          "matchA": [],
+          "matchB": [],
+          "subQuestions": [
+            {
+              "label": "(i)",
+              "text": "$x$ is the mean of $(p + q)$ numbers. If $y$ be the mean of $p$ numbers, then mean of remaining $q$ numbers is _______"
+            },
+            {
+              "label": "(ii)",
+              "text": "The greatest volume of a solid cone which can be cut off from a solid hemisphere of radius $r$ unit is _______"
+            },
+            {
+              "label": "(iii)",
+              "text": "If $\\sin^2\\theta + 2x \\cos^2\\theta = 1$, then value of $x$ is _______"
+            },
+            {
+              "label": "(iv)",
+              "text": "If two circles in a plane have three common tangents, then they will touch each other _______"
+            },
+            {
+              "label": "(v)",
+              "text": "If $x(4 - \\sqrt{3}) = y(4 + \\sqrt{3}) = 1$, then the value of $x^2 + y^2 =$ _______"
+            },
+            {
+              "label": "(vi)",
+              "text": "In a business Pintu invests $1\\frac{1}{2}$ times of Principal amount of Aman and David invests $2\\frac{1}{2}$ times of Principal amount of Aman. The ratio of Principal amount of Aman, Pintu and David is _______"
+            }
+          ],
+          "subMCQs": [],
+          "tableText": "",
+          "diagramNote": ""
+        }
+      ]
+    },
+    {
+      "id": "sec_3",
+      "name": "",
+      "marks": "",
+      "questions": [
+        {
+          "id": "q_3",
+          "type": "saq",
+          "number": "3",
+          "heading": "Write True or False (any five) :",
+          "headingMarks": "$1 \\times 5 = 5$",
+          "text": "",
+          "options": [],
+          "alt": "",
+          "altText": "",
+          "marks": "",
+          "matchA": [],
+          "matchB": [],
+          "subQuestions": [
+            {
+              "label": "(i)",
+              "text": "Mode = 2 × Median - 3 × Mean."
+            },
+            {
+              "label": "(ii)",
+              "text": "If $x$ be the volume, $y$ be the area of the base and $z$ be the height of a cone then the value of $\\frac{x}{yz}$ is 3."
+            },
+            {
+              "label": "(iii)",
+              "text": "If $0^\\circ < \\theta < 90^\\circ$ then $\\sin \\theta < \\sin^2\\theta$."
+            },
+            {
+              "label": "(iv)",
+              "text": "$ABCD$ is a cyclic quadrilateral. If $\\angle ADB = x^\\circ$ and $\\angle ABD = y^\\circ$ then $\\angle BCD$ is $(x + y)^\\circ$."
+            },
+            {
+              "label": "(v)",
+              "text": "If the sum of the square of the roots of the equation $6x^2 + x + k = 0$ is $\\frac{25}{36}$, then the value of $k$ is 12."
+            },
+            {
+              "label": "(vi)",
+              "text": "In a joint business one of the two friends invests Rs. $xyz$ for $y$ months and the other Rs. $y^2z$ for $x$ months. At the end of the agreements, the profit would be distributed in the ratio $x : y$."
+            }
+          ],
+          "subMCQs": [],
+          "tableText": "",
+          "diagramNote": ""
+        }
+      ]
+    },
+    {
+      "id": "sec_4",
+      "name": "",
+      "marks": "",
+      "questions": [
+        {
+          "id": "q_4",
+          "type": "saq",
+          "number": "4",
+          "heading": "Answer the following questions (any ten) :",
+          "headingMarks": "$2 \\times 10 = 20$",
+          "text": "",
+          "options": [],
+          "alt": "",
+          "altText": "",
+          "marks": "",
+          "matchA": [],
+          "matchB": [],
+          "subQuestions": [
+            {
+              "label": "(i)",
+              "text": "The Median of first $(2n + 1)$ natural numbers is $\\frac{n + 103}{3}$. Find the value of $n$."
+            },
+            {
+              "label": "(ii)",
+              "text": "The ratio of the length of radius of two solid right circular cylinders is 2 : 3 and the ratio of their heights is 5 : 3. Find the ratio of the area of curved surfaces."
+            },
+            {
+              "label": "(iii)",
+              "text": "If $x$ be the number of edges of a parallelopiped and $y$ be the number of surfaces then for what least value of $a$, $(x + y + a)$ is a perfect square ?"
+            },
+            {
+              "label": "(iv)",
+              "text": "If $\\cos^4\\theta - \\sin^4\\theta = \\frac{2}{3}$, find the value of $1 - 2\\sin^2\\theta$."
+            },
+            {
+              "label": "(v)",
+              "text": "If $\\sin(\\theta + 30^\\circ) = \\cos 15^\\circ$, then find the value of $\\cos 2\\theta$."
+            },
+            {
+              "label": "(vi)",
+              "text": "$O$ is a point inside a rectangle $ABCD$ such that $OB = 6$ cm, $OD = 8$ cm and $OA = 5$ cm. Find $OC$."
+            },
+            {
+              "label": "(vii)",
+              "text": "From an external point $P$ of a circle with centre $O$, two tangents $PS$ and $PT$ are drawn. $QS$ is a chord of the circle parallel to $PT$. If $\\angle SPT = 80^\\circ$ then find the value of $\\angle QST$."
+            },
+            {
+              "label": "(viii)",
+              "text": "Perimeters of two similar triangles are 27 cm and 16 cm. If the length of a side of the first triangle is 9 cm, then find the length of the corresponding side of the second triangle."
+            },
+            {
+              "label": "(ix)",
+              "text": "If $x \\propto \\sqrt{y}$ and $y = a^2$, when $x = 2a$ then find $x^2 : y$."
+            },
+            {
+              "label": "(x)",
+              "text": "If $\\frac{x}{2} = \\frac{y}{3} = \\frac{z}{4}$ then find the value of $\\frac{3x + 4y + 8z}{x + 3y}$."
+            },
+            {
+              "label": "(xi)",
+              "text": "The Capital of $A$ and $B$ in a business are in a ratio 3 : 2. After donating 5% of the profit $B$ receives Rs. 798. What is the total profit ?"
+            },
+            {
+              "label": "(xii)",
+              "text": "If the annual rate of simple interest decreases from 5.5% to 4.5%, then the total interest is decreased by Rs. 250. Find the capital."
+            }
+          ],
+          "subMCQs": [],
+          "tableText": "",
+          "diagramNote": ""
+        }
+      ]
+    },
+    {
+      "id": "sec_5",
+      "name": "",
+      "marks": "",
+      "questions": [
+        {
+          "id": "q_5",
+          "type": "laq",
+          "number": "5",
+          "heading": "Answer any one question :",
+          "headingMarks": "$5$",
+          "text": "",
+          "options": [],
+          "alt": "",
+          "altText": "",
+          "marks": "",
+          "matchA": [],
+          "matchB": [],
+          "subQuestions": [
+            {
+              "label": "(i)",
+              "text": "In a joint business the Capital of Samar and Mohim are Rs. 20,000 each. After 6 months Samar invests Rs. 5,000 more, but Mohim withdraws Rs. 5,000. At the end of the year if the profit is Rs. 32,000 then find the share of the profit of Samar and Mohim."
+            },
+            {
+              "label": "(ii)",
+              "text": "Divide Rs. 21,866 into two parts such that the amount of the first part for 3 years and amount of the second part for 5 years are equal at the same rate of 5% compound interest."
+            }
+          ],
+          "subMCQs": [],
+          "tableText": "",
+          "diagramNote": ""
+        }
+      ]
+    },
+    {
+      "id": "sec_6",
+      "name": "",
+      "marks": "",
+      "questions": [
+        {
+          "id": "q_6",
+          "type": "laq",
+          "number": "6",
+          "heading": "Answer any one question :",
+          "headingMarks": "$3$",
+          "text": "",
+          "options": [],
+          "alt": "",
+          "altText": "",
+          "marks": "",
+          "matchA": [],
+          "matchB": [],
+          "subQuestions": [
+            {
+              "label": "(i)",
+              "text": "Divide 16 into two parts in such a way that twice the square of the greater part is 164 more than the square of the smaller part."
+            },
+            {
+              "label": "(ii)",
+              "text": "Solve :\n$\\frac{x + 3}{x - 3} + \\frac{x - 3}{x + 3} = 2\\frac{1}{2}, (x \\neq -3, 3)$"
+            }
+          ],
+          "subMCQs": [],
+          "tableText": "",
+          "diagramNote": ""
+        }
+      ]
+    },
+    {
+      "id": "sec_7",
+      "name": "",
+      "marks": "",
+      "questions": [
+        {
+          "id": "q_7",
+          "type": "laq",
+          "number": "7",
+          "heading": "Answer any one question :",
+          "headingMarks": "$3$",
+          "text": "",
+          "options": [],
+          "alt": "",
+          "altText": "",
+          "marks": "",
+          "matchA": [],
+          "matchB": [],
+          "subQuestions": [
+            {
+              "label": "(i)",
+              "text": "If $\\left(x^3 + \\frac{1}{y^3}\\right) \\propto \\left(x^3 - \\frac{1}{y^3}\\right)$, then show that $x \\propto \\frac{1}{y}$."
+            },
+            {
+              "label": "(ii)",
+              "text": "If $x = \\frac{4\\sqrt{15}}{\\sqrt{5} + \\sqrt{3}}$, then find the value of $\\frac{x + \\sqrt{20}}{x - \\sqrt{20}} + \\frac{x + \\sqrt{12}}{x - \\sqrt{12}}$."
+            }
+          ],
+          "subMCQs": [],
+          "tableText": "",
+          "diagramNote": ""
+        }
+      ]
+    },
+    {
+      "id": "sec_8",
+      "name": "",
+      "marks": "",
+      "questions": [
+        {
+          "id": "q_8",
+          "type": "laq",
+          "number": "8",
+          "heading": "Answer any one question :",
+          "headingMarks": "$3$",
+          "text": "",
+          "options": [],
+          "alt": "",
+          "altText": "",
+          "marks": "",
+          "matchA": [],
+          "matchB": [],
+          "subQuestions": [
+            {
+              "label": "(i)",
+              "text": "If $(b + c - a) x = (c + a - b) y = (a + b - c) z = 2$, then prove that\n$\\left(\\frac{1}{x} + \\frac{1}{y}\\right) \\left(\\frac{1}{y} + \\frac{1}{z}\\right) \\left(\\frac{1}{z} + \\frac{1}{x}\\right) = abc$"
+            },
+            {
+              "label": "(ii)",
+              "text": "If $\\frac{x}{y} = \\frac{a + 2}{a - 2}$, then find the value of $\\frac{x^2 - y^2}{x^2 + y^2}$."
+            }
+          ],
+          "subMCQs": [],
+          "tableText": "",
+          "diagramNote": ""
+        }
+      ]
+    },
+    {
+      "id": "sec_9",
+      "name": "",
+      "marks": "",
+      "questions": [
+        {
+          "id": "q_9",
+          "type": "laq",
+          "number": "9",
+          "heading": "Answer any one question :",
+          "headingMarks": "$5$",
+          "text": "",
+          "options": [],
+          "alt": "",
+          "altText": "",
+          "marks": "",
+          "matchA": [],
+          "matchB": [],
+          "subQuestions": [
+            {
+              "label": "(i)",
+              "text": "Prove that in a cyclic quadrilateral opposite angles are supplementary."
+            },
+            {
+              "label": "(ii)",
+              "text": "State and prove Pythagoras theorem."
+            }
+          ],
+          "subMCQs": [],
+          "tableText": "",
+          "diagramNote": ""
+        }
+      ]
+    },
+    {
+      "id": "sec_10",
+      "name": "",
+      "marks": "",
+      "questions": [
+        {
+          "id": "q_10",
+          "type": "laq",
+          "number": "10",
+          "heading": "Answer any one question :",
+          "headingMarks": "$3$",
+          "text": "",
+          "options": [],
+          "alt": "",
+          "altText": "",
+          "marks": "",
+          "matchA": [],
+          "matchB": [],
+          "subQuestions": [
+            {
+              "label": "(i)",
+              "text": "$AB$ is the diameter of the circle with centre $O$. From a point $P$ on the circle, a perpendicular $PN$ is drawn on $AB$. Prove geometrically that $PB^2 = AB.BN$."
+            },
+            {
+              "label": "(ii)",
+              "text": "$O$ is the circumcentre of the triangle $ABC$. $OD \\perp BC$. Prove that $\\angle BOD = \\angle BAC$."
+            }
+          ],
+          "subMCQs": [],
+          "tableText": "",
+          "diagramNote": ""
+        }
+      ]
+    },
+    {
+      "id": "sec_11",
+      "name": "",
+      "marks": "",
+      "questions": [
+        {
+          "id": "q_11",
+          "type": "saq",
+          "number": "11",
+          "heading": "Answer any one question :",
+          "headingMarks": "$5$",
+          "text": "",
+          "options": [],
+          "alt": "",
+          "altText": "",
+          "marks": "",
+          "matchA": [],
+          "matchB": [],
+          "subQuestions": [
+            {
+              "label": "(i)",
+              "text": "Find the value of $2\\sqrt{3}$ geometrically."
+            },
+            {
+              "label": "(ii)",
+              "text": "Draw a triangle whose sides are of lengths 6 cm, 8 cm and 10 cm. Draw the incircle of this triangle."
+            }
+          ],
+          "subMCQs": [],
+          "tableText": "",
+          "diagramNote": ""
+        }
+      ]
+    },
+    {
+      "id": "sec_12",
+      "name": "",
+      "marks": "",
+      "questions": [
+        {
+          "id": "q_12",
+          "type": "saq",
+          "number": "12",
+          "heading": "Answer any two questions :",
+          "headingMarks": "$3 \\times 2 = 6$",
+          "text": "",
+          "options": [],
+          "alt": "",
+          "altText": "",
+          "marks": "",
+          "matchA": [],
+          "matchB": [],
+          "subQuestions": [
+            {
+              "label": "(i)",
+              "text": "If $\\sin x = m \\sin y$ and $\\tan x = n \\tan y$, then show that $\\cos^2 x = \\frac{m^2 - 1}{n^2 - 1}$"
+            },
+            {
+              "label": "(ii)",
+              "text": "If $\\tan \\theta = \\frac{5}{7}$, find the value of $\\frac{5 \\sin \\theta + 7 \\cos \\theta}{7 \\sin \\theta + 5 \\cos \\theta}$"
+            },
+            {
+              "label": "(iii)",
+              "text": "Two unequal arcs of ratio 5 : 2 of a circle subtend angle at the centre. If the second angle is 30°, find the first angle in circular measure."
+            }
+          ],
+          "subMCQs": [],
+          "tableText": "",
+          "diagramNote": ""
+        }
+      ]
+    },
+    {
+      "id": "sec_13",
+      "name": "",
+      "marks": "",
+      "questions": [
+        {
+          "id": "q_13",
+          "type": "laq",
+          "number": "13",
+          "heading": "Answer any one question :",
+          "headingMarks": "$5$",
+          "text": "",
+          "options": [],
+          "alt": "",
+          "altText": "",
+          "marks": "",
+          "matchA": [],
+          "matchB": [],
+          "subQuestions": [
+            {
+              "label": "(i)",
+              "text": "From the middle of a ground Habu observes a flying bird toward north at an angle of elevation 30°, after 2 minutes he observes the same bird at an angle of elevation 60° toward south. If the bird always flies in a straight line at height $50\\sqrt{3}$ meter from the ground level, find its velocity."
+            },
+            {
+              "label": "(ii)",
+              "text": "Distance between two pillars is 150 m, height of one pillar is three times the other pillar. From the mid point of the line joining their foot the angles of elevation of the top of the two pillars are complementary. Find the height of the smaller pillar."
+            }
+          ],
+          "subMCQs": [],
+          "tableText": "",
+          "diagramNote": ""
+        }
+      ]
+    },
+    {
+      "id": "sec_14",
+      "name": "",
+      "marks": "",
+      "questions": [
+        {
+          "id": "q_14",
+          "type": "laq",
+          "number": "14",
+          "heading": "Answer any two questions :",
+          "headingMarks": "$4 \\times 2 = 8$",
+          "text": "",
+          "options": [],
+          "alt": "",
+          "altText": "",
+          "marks": "",
+          "matchA": [],
+          "matchB": [],
+          "subQuestions": [
+            {
+              "label": "(i)",
+              "text": "Curved surface area of a right circular cone is $154\\sqrt{2}$ sq cm and radius of the base 7 cm. Find its vertical angle."
+            },
+            {
+              "label": "(ii)",
+              "text": "The height of a right circular cylinder is twice the radius of the base. If the height is 6 times of the radius, then the volume of the cylinder is 539 cubic decimeter more than the previous volume. Find the height of the cylinder."
+            },
+            {
+              "label": "(iii)",
+              "text": "Melting a solid Lead sphere of diameter 12 cm, three small solid spheres are made. If the ratio of the diameter of the small spheres is 3 : 4 : 5 then find the radius of each small sphere."
+            }
+          ],
+          "subMCQs": [],
+          "tableText": "",
+          "diagramNote": ""
+        }
+      ]
+    },
+    {
+      "id": "sec_15",
+      "name": "",
+      "marks": "",
+      "questions": [
+        {
+          "id": "q_15_1",
+          "type": "table",
+          "number": "15",
+          "heading": "Answer any two questions :",
+          "headingMarks": "$4 \\times 2 = 8$",
+          "text": "",
+          "options": [],
+          "alt": "",
+          "altText": "",
+          "marks": "",
+          "matchA": [],
+          "matchB": [],
+          "subQuestions": [
+            {
+              "label": "(i)",
+              "text": "The age of 100 persons present in a workshop is given in the following table. Find the average age of 100 people (by any method) :"
+            }
+          ],
+          "subMCQs": [],
+          "tableText": "{\"headers\":[\"Age (year)\",\"10-20\",\"20-30\",\"30-40\",\"40-50\",\"50-60\",\"60-70\"],\"rows\":[[\"No. of people\",\"08\",\"12\",\"20\",\"22\",\"18\",\"20\"]],\"orientation\":\"horizontal\"}",
+          "diagramNote": ""
+        },
+        {
+          "id": "q_15_2",
+          "type": "table",
+          "number": "",
+          "heading": "",
+          "headingMarks": "",
+          "text": "",
+          "options": [],
+          "alt": "",
+          "altText": "",
+          "marks": "",
+          "matchA": [],
+          "matchB": [],
+          "subQuestions": [
+            {
+              "label": "(ii)",
+              "text": "The median of following data is 32. Find the value of $x$ and $y$ if $x + y = 100$."
+            }
+          ],
+          "subMCQs": [],
+          "tableText": "{\"headers\":[\"Class Interval\",\"0-10\",\"10-20\",\"20-30\",\"30-40\",\"40-50\",\"50-60\"],\"rows\":[[\"Frequency\",\"10\",\"$x$\",\"25\",\"30\",\"$y$\",\"10\"]],\"orientation\":\"horizontal\"}",
+          "diagramNote": ""
+        },
+        {
+          "id": "q_15_3",
+          "type": "table",
+          "number": "",
+          "heading": "",
+          "headingMarks": "",
+          "text": "",
+          "options": [],
+          "alt": "",
+          "altText": "",
+          "marks": "",
+          "matchA": [],
+          "matchB": [],
+          "subQuestions": [
+            {
+              "label": "(iii)",
+              "text": "Draw an ogive on the graph paper after calculating the cumulative frequency (less than type) of the following data :"
+            }
+          ],
+          "subMCQs": [],
+          "tableText": "\"{\\\"headers\\\":[\\\"Class Interval\\\",\\\"0-10\\\",\\\"10-20\\\",\\\"20-30\\\",\\\"30-40\\\",\\\"40-50\\\",\\\"50-60\\\",\\\"60-70\\\"],\\\"rows\\\":[[\\\"Frequency\\\",\\\"1\\\",\\\"6\\\",\\\"15\\\",\\\"20\\\",\\\"15\\\",\\\"6\\\",\\\"1\\\"]],\\\"orientation\\\":\\\"horizontal\\\"}\"",
+          "diagramNote": ""
+        }
+      ]
+    },
+    {
+      "id": "sec_alt",
+      "name": "[Alternative Questions for Sightless Candidates]",
+      "marks": "",
+      "questions": [
+        {
+          "id": "q_11_alt",
+          "type": "saq",
+          "number": "11",
+          "heading": "Answer any one question :",
+          "headingMarks": "$5$",
+          "text": "",
+          "alt": "",
+          "altText": "",
+          "marks": "",
+          "options": [],
+          "matchA": [],
+          "matchB": [],
+          "subQuestions": [
+            {
+              "label": "(i)",
+              "text": "Describe the process of finding the value of $2\\sqrt{3}$ geometrically."
+            },
+            {
+              "label": "(ii)",
+              "text": "Describe the process of construction of incircle of a triangle whose three sides are given."
+            }
+          ],
+          "subMCQs": [],
+          "tableText": "",
+          "diagramNote": ""
+        }
+      ],
+      "align": "center"
+    },
+    {
+      "id": "sec_ext",
+      "name": "[Additional Questions for External Candidates]",
+      "marks": "",
+      "questions": [
+        {
+          "id": "q_16a",
+          "type": "saq",
+          "number": "16. (a)",
+          "heading": "Answer any three questions :",
+          "headingMarks": "$2 \\times 3 = 6$",
+          "text": "",
+          "alt": "",
+          "altText": "",
+          "marks": "",
+          "options": [],
+          "matchA": [],
+          "matchB": [],
+          "subQuestions": [
+            {
+              "label": "(i)",
+              "text": "The ratio of portion of profit of two friends is $\\frac{1}{2} : \\frac{1}{3}$. Find the ratio of their capitals."
+            },
+            {
+              "label": "(ii)",
+              "text": "Find the mean proportion of $xy^2$ and $xz^2$."
+            },
+            {
+              "label": "(iii)",
+              "text": "The sum of length, breadth and height of a cuboid is 10 cm and the length of the diagonal is $\\sqrt{32}$ cm. Find the area of the lateral surfaces of the cuboid."
+            },
+            {
+              "label": "(iv)",
+              "text": "Find $x$, if $\\sin x = \\cos (x - 20^\\circ)$."
+            }
+          ],
+          "subMCQs": [],
+          "tableText": "",
+          "diagramNote": ""
+        },
+        {
+          "id": "q_16b",
+          "type": "saq",
+          "number": "(b)",
+          "heading": "Answer any four questions :",
+          "headingMarks": "$1 \\times 4 = 4$",
+          "text": "",
+          "alt": "",
+          "altText": "",
+          "marks": "",
+          "options": [],
+          "matchA": [],
+          "matchB": [],
+          "subQuestions": [
+            {
+              "label": "(i)",
+              "text": "If the roots of a quadratic equation $ax^2 + bx + c = 0$ $(a \\neq 0)$ are reciprocal and opposite in sign. Find $(a + c)$."
+            },
+            {
+              "label": "(ii)",
+              "text": "Find the value of angle in degree made by the tangent of a circle with the radius of that circle at the point of contact."
+            },
+            {
+              "label": "(iii)",
+              "text": "Write a difference between the geometric angle and trigonometrical angle."
+            },
+            {
+              "label": "(iv)",
+              "text": "Find the ratio of length of radius and perimeter of a circle."
+            },
+            {
+              "label": "(v)",
+              "text": "State True/False :\n\"The equal chords of a circle are at equal distances from the centre of the circle\"."
+            }
+          ],
+          "subMCQs": [],
+          "tableText": "",
+          "diagramNote": ""
+        }
+      ],
+      "align": "center"
+    }
+  ]
+}
