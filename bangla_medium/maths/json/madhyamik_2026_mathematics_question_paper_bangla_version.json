@@ -1,0 +1,797 @@
+{
+  "header": {
+    "paperCode": "WB-MADHYAMIK-MATH-2026",
+    "year": "2026",
+    "subject": "MATHEMATICS",
+    "compulsory": "",
+    "time": "3 Hours 15 Minutes",
+    "readingTime": "(First 15 minutes for reading question paper)",
+    "marksRegular": "90",
+    "marksExternal": "100",
+    "instructions": "Special credit will be given for answers which are brief and to the point.\nMarks will be deducted for spelling mistakes, untidiness, overwriting and bad handwriting.",
+    "bengaliInstructions": "[ $1, 2, 3, 4$ প্রশ্নগুলির উত্তর প্রশ্নসংখ্যা লিখে অবশ্যই ক্রমানুযায়ী উত্তরপত্রের প্রথম দিকে লিখতে হবে। এর জন্য প্রয়োজনবোধে গণনা ও চিত্র অঙ্কন উত্তরপত্রের ডানদিকে মার্জিন টেনে করতে হবে। কোনো প্রকার সারণি বা গণকযন্ত্র ব্যবহার করা যাবে না। গণনার প্রয়োজনে $\\pi$-এর আসন্ন মান $\\frac{22}{7}$ ধরে নিতে হবে। গ্রাফ পেপার প্রশ্নপত্রের সাথেই দেওয়া হবে। পাটীগণিতের অঙ্ক বীজগণিতিক পদ্ধতিতে করা যেতে পারে।]\n[ দৃষ্টিহীন পরীক্ষার্থীদের জন্য $11$ নং প্রশ্নের বিকল্প দেওয়া আছে $4$ নং পৃষ্ঠায় ]",
+    "footerLeft": "ZE-5098",
+    "footerRight": "(Contd.)"
+  },
+  "sections": [
+    {
+      "id": "sec_1",
+      "name": "",
+      "marks": "",
+      "questions": [
+        {
+          "id": "q_1789910447422_qgh4xk",
+          "type": "mcq-group",
+          "number": "1",
+          "heading": "নিম্নলিখিত প্রশ্নগুলির প্রতিটি ক্ষেত্রে সঠিক উত্তরটি নির্বাচন কর:",
+          "headingMarks": "$1  \\times 6 = 6$",
+          "text": "",
+          "alt": "",
+          "altText": "",
+          "marks": "",
+          "options": [],
+          "matchA": [],
+          "matchB": [],
+          "subQuestions": [],
+          "subMCQs": [
+            {
+              "label": "(i)",
+              "text": "কোন মূলধন 10 বছরে দ্বিগুণ হলে, বার্ষিক সরল সুদের হার হবে",
+              "options": [
+                "5%",
+                "10%",
+                "15%",
+                "20%"
+              ]
+            }
+          ],
+          "tableText": "",
+          "diagramNote": ""
+        },
+        {
+          "id": "q_1789910516550_pm5zxt",
+          "type": "mcq-group",
+          "number": "",
+          "heading": "",
+          "headingMarks": "",
+          "text": "",
+          "alt": "",
+          "altText": "",
+          "marks": "",
+          "options": [],
+          "matchA": [],
+          "matchB": [],
+          "subQuestions": [],
+          "subMCQs": [
+            {
+              "label": "(ii)",
+              "text": "$ax^2 + bx + c = 0 \\ (a > 0)$ এর বীজ দুটি সমান কিন্তু বিপরীত চিহ্নযুক্ত হওয়ার শর্ত হবে",
+              "options": [
+                "$b=0, c=0$",
+                "$b=0, c>0$",
+                "$b=0, c<0$",
+                "$b>0, c=0$"
+              ]
+            }
+          ],
+          "tableText": "",
+          "diagramNote": ""
+        },
+        {
+          "id": "q_1789910714134_9f6l1t",
+          "type": "mcq-group",
+          "number": "",
+          "heading": "",
+          "headingMarks": "",
+          "text": "",
+          "alt": "",
+          "altText": "",
+          "marks": "",
+          "options": [],
+          "matchA": [],
+          "matchB": [],
+          "subQuestions": [],
+          "subMCQs": [
+            {
+              "label": "(iii)",
+              "text": "$6, 7, x, y, 16$ সংখ্যাগুলির গড় $9$ হলে :",
+              "options": [
+                "$x + y = 21$",
+                "$x + y = 16$",
+                "$x -y = 21$",
+                "$x - y = 19$"
+              ]
+            }
+          ],
+          "tableText": "",
+          "diagramNote": ""
+        },
+        {
+          "id": "q_1789910836551_5c2jmo",
+          "type": "mcq-group",
+          "number": "",
+          "heading": "",
+          "headingMarks": "",
+          "text": "",
+          "alt": "",
+          "altText": "",
+          "marks": "",
+          "options": [],
+          "matchA": [],
+          "matchB": [],
+          "subQuestions": [],
+          "subMCQs": [
+            {
+              "label": "(iv)",
+              "text": "একটি বৃত্তের $121$ সেমি দৈর্ঘ্যের চাপ কেন্দ্রে $77^{\\circ }$ কোণ উৎপন্ন করলে বৃত্তটির ব্যাসার্ধ হবে",
+              "options": [
+                "$110$ সেমি",
+                "$100$ সেমি",
+                "$90$ সেমি",
+                "$70$ সেমি"
+              ]
+            }
+          ],
+          "tableText": "",
+          "diagramNote": ""
+        },
+        {
+          "id": "q_1789911040233_5te7at",
+          "type": "mcq-group",
+          "number": "",
+          "heading": "",
+          "headingMarks": "",
+          "text": "",
+          "alt": "",
+          "altText": "",
+          "marks": "",
+          "options": [],
+          "matchA": [],
+          "matchB": [],
+          "subQuestions": [],
+          "subMCQs": [
+            {
+              "label": "(v)",
+              "text": "একটি ঘনকের একটি বাহুর দৈর্ঘ্য $a$ একক এবং কর্ণের দৈর্ঘ্য $d$ একক হলে $a$ ও $d$ এর সম্পর্ক হবে",
+              "options": [
+                "$\\sqrt{2}a=d$",
+                "$\\sqrt{3}a=d$",
+                "$a=\\sqrt{3}d$",
+                "$a=\\sqrt{2}d$"
+              ]
+            }
+          ],
+          "tableText": "",
+          "diagramNote": ""
+        },
+        {
+          "id": "q_1789911150463_mm7z78",
+          "type": "mcq-group",
+          "number": "",
+          "heading": "",
+          "headingMarks": "",
+          "text": "",
+          "alt": "",
+          "altText": "",
+          "marks": "",
+          "options": [],
+          "matchA": [],
+          "matchB": [],
+          "subQuestions": [],
+          "subMCQs": [
+            {
+              "label": "(vi)",
+              "text": "$O$ কেন্দ্রীয় বৃত্তের $ABCD$ একটি বৃত্তস্থ চতুর্ভূজ। $BC$ কে $E$ পর্যন্ত বর্ধিত করা হল। $\\angle DCE=96^{\\circ}$ হলে $\\angle BOD$ এর মান কত?",
+              "options": [
+                "$42^{\\circ}$",
+                "$84^{\\circ}$",
+                "$142^{\\circ}$",
+                "$168^{\\circ}$"
+              ]
+            }
+          ],
+          "tableText": "",
+          "diagramNote": ""
+        }
+      ]
+    },
+    {
+      "id": "sec_2",
+      "name": "2. ",
+      "marks": "$1  \\times 5 = 5$",
+      "questions": [
+        {
+          "id": "q_2_1",
+          "type": "fill",
+          "number": "2",
+          "heading": "শূন্যস্থান পূরণ কর (যে কোন পাঁচটি):",
+          "headingMarks": "$1  \\times 5 = 5$",
+          "text": "",
+          "options": [],
+          "alt": "",
+          "altText": "",
+          "marks": "",
+          "matchA": [],
+          "matchB": [],
+          "subQuestions": [
+            {
+              "label": "(i)",
+              "text": "এক বছরের আসল ও সুদ-আসলের অনুপাত $8:9$ হলে বার্ষিক সুদের হার ________।"
+            },
+            {
+              "label": "(ii)",
+              "text": "$(\\sqrt{3} − 5)$ এর অনুবন্ধী করণী ________।"
+            },
+            {
+              "label": "(iii)",
+              "text": "কোনো বৃত্তের একটি ব্যাসের দুই প্রান্ত অঙ্কিত স্পর্শক দুটি পরস্পর ________।"
+            },
+            {
+              "label": "(iv)",
+              "text": "যদি $x = a sec θ$ ও $y = b cot θ$ হয়, তবে $\\frac{x^2}{a^2} − \\frac{y^2}{b^2} =$ ________।"
+            },
+            {
+              "label": "(v)",
+              "text": "একটি নিরেট অর্ধগোলকের ব্যাসার্ধ $3r$ হলে, তার সমগ্র তলের ক্ষেত্রফল  ________।"
+            },
+            {
+              "label": "(vi)",
+              "text": "$1, 2, 3, 4, 5$ সংখ্যাগুলির পরিসংখ্যা যথাক্রমে $1, 2, 3, 4, f$ এবং এদের যৌগিক গড় $4$ হলে $f$ এর মান ________।"
+            }
+          ],
+          "subMCQs": [],
+          "tableText": "",
+          "diagramNote": ""
+        }
+      ]
+    },
+    {
+      "id": "sec_3",
+      "name": "",
+      "marks": "",
+      "questions": [
+        {
+          "id": "q_3_1",
+          "type": "saq",
+          "number": "3",
+          "heading": "সত্য বা মিথ্যা লেখো (যে কোন পাঁচটি):",
+          "headingMarks": "$1  \\times 5 = 5$",
+          "text": "",
+          "options": [],
+          "alt": "",
+          "altText": "",
+          "marks": "",
+          "matchA": [],
+          "matchB": [],
+          "subQuestions": [
+            {
+              "label": "(i)",
+              "text": "$\\sin^{2}\\theta=(\\sin\\theta)^{2} , 0^{\\circ}<\\theta<90^{\\circ}.$"
+            },
+            {
+              "label": "(ii)",
+              "text": "$4$ সেমি ব্যাসার্ধ বিশিষ্ট গোলকের মধ্যে অন্তর্লিখিত বৃহত্তম ঘনকের বাহুর দৈর্ঘ্য $4\\sqrt{2}$ সেমি।"
+            },
+            {
+              "label": "(iii)",
+              "text": "অর্ধবৃত্ত অপেক্ষা বৃহত্তর বৃত্তাংশস্থিত কোণ স্থূলকোণ।"
+            },
+            {
+              "label": "(iv)",
+              "text": "$x-3,x-1,7,x,2x-1,3x-5$ রাশিগুলির যৌগিক গড় $7.5$ হলে উহাদের মধ্যমা $3$ হবে।"
+            },
+            {
+              "label": "(v)",
+              "text": "$x \\propto \\frac{1}{y}$ হলে $(xy)^{10}$ ধ্রুবক।"
+            },
+            {
+              "label": "(vi)",
+              "text": "একটি ব্যবসায় রাজু ও আসিফের মূলধনের অনুপাত $5:4$ এবং রাজু মোট লাভের $80$ টাকা পেলে আসিফ পায় $100$ টাকা।"
+            }
+          ],
+          "subMCQs": [],
+          "tableText": "",
+          "diagramNote": ""
+        }
+      ]
+    },
+    {
+      "id": "sec_4",
+      "name": "",
+      "marks": "",
+      "questions": [
+        {
+          "id": "q_4_1",
+          "type": "saq",
+          "number": "4",
+          "heading": "নিম্নলিখিত প্রশ্নগুলির উত্তর দাও (যে কোন দশটি):",
+          "headingMarks": "$2  \\times 10 = 20$",
+          "text": "",
+          "options": [],
+          "alt": "",
+          "altText": "",
+          "marks": "",
+          "matchA": [],
+          "matchB": [],
+          "subQuestions": [
+            {
+              "label": "(i)",
+              "text": "$A$ এবং $B$ যথাক্রমে $15,000$ টাকা ও $45,000$ টাকা দিয়ে একটা ব্যবসা শুরু করল। $6$ মাস পরে $B$ লভ্যাংশ হিসাবে $3,030$ টাকা পেল, $A$ এর লভ্যাংশ কত?"
+            },
+            {
+              "label": "(ii)",
+              "text": "$\\Delta ABC$ এর $BC$ বাহুর সমান্তরাল সরলরেখা $AB$ ও $AC$ কে যথাক্রমে $P$ ও $Q$ বিন্দুতে ছেদ করে। যদি $AP=4$ সেমি, $QC=9$ সেমি এবং $PB=AQ$ হয় তাহলে $PB$ এর মান নির্ণয় কর।"
+            },
+            {
+              "label": "(iii)",
+              "text": "$O$ কেন্দ্রীয় বৃত্তের $AB$ ও $CD$ জ্যা দুটি কেন্দ্র থেকে সমদূরবর্তী। $\\angle AOB=60^{\\circ}$ এবং $CD=6$ সেমি হলে, বৃত্তটির ব্যাসার্ধের দৈর্ঘ্য কত?"
+            },
+            {
+              "label": "(iv)",
+              "text": "$\\tan\\theta+\\cot\\theta=2$ হলে $\\tan^{7}\\theta+\\cot^{7}\\theta$ এর মান নির্ণয় কর।"
+            },
+            {
+              "label": "(v)",
+              "text": " $x$ ও $y$ ধনাত্মক বাস্তব রাশি হলে, $\\sec\\theta=\\frac{x}{y}$ হতে পারে কি? উত্তরের সপক্ষে যুক্তি দাও।"
+            },
+            {
+              "label": "(vi)",
+              "text": "দুটি লম্ববৃত্তাকার চোঙের উচ্চতার অনুপাত $1 : 2$ এবং ভূমির পরিধির অনুপাত $3 : 4$ হলে, তাদের আয়তনের অনুপাত নির্ণয় কর।"
+            },
+            {
+              "label": "(vii)",
+              "text": "যদি $x_{1}, x_{2}, \\dots, x_{n}$ রাশিগুলির যৌগিক গড় $\\bar{x}$ হয়, তাহলে প্রমাণ কর যে, $\\sum_{i=1}^{n}(x_{i}-\\bar{x})^{2}=\\sum_{i=1}^{n}x_{i}^{2}-n\\bar{x}^{2}$."
+            },
+            {
+              "label": "(viii)",
+              "text": "সুদের হার $5.5%$ থেকে $6%$-এ বৃদ্ধি পেলে কিছু টাকার বার্ষিক সুদ $49.50$ টাকা বৃদ্ধি পায়। আসল নির্ণয় কর।"
+            },
+            {
+              "label": "(ix)",
+              "text": "$x^{2}-4x=K(x-1)-5$ সমীকরণটির বীজ দুটির সমষ্টি $7$ হলে $K$-এর মান নির্ণয় কর।"
+            },
+            {
+              "label": "(x)",
+              "text": " $(a+b):\\sqrt{ab}=2:1$ হলে $a:b$ নির্ণয় কর।"
+            },
+            {
+              "label": "(xi)",
+              "text": "একটি গোলকের ব্যাসার্ধ $50%$ বাড়ালে আয়তন শতকরা কত বাড়বে।"
+            },
+            {
+              "label": "(xii)",
+              "text": "$ABCD$ একটি বৃত্তস্থ চতুর্ভূজ। যদি $AD=AB, \\angle DAC=60^{\\circ}$ এবং $\\angle BDC=50^{\\circ}$ হয় তাহলে $\\angle ACD$ এর মান নির্ণয় কর।"
+            }
+          ],
+          "subMCQs": [],
+          "tableText": "",
+          "diagramNote": ""
+        }
+      ]
+    },
+    {
+      "id": "sec_5",
+      "name": "",
+      "marks": "",
+      "questions": [
+        {
+          "id": "q_5_1",
+          "type": "laq",
+          "number": "5",
+          "heading": "যে কোন একটি প্রশ্নের উত্তর দাও :",
+          "headingMarks": "5",
+          "text": "",
+          "options": [],
+          "alt": "",
+          "altText": "",
+          "marks": "",
+          "matchA": [],
+          "matchB": [],
+          "subQuestions": [
+            {
+              "label": "(i)",
+              "text": "যদি বার্ষিক চক্রবৃদ্ধি সুদের হার প্রথম বছর $4%$ ও দ্বিতীয় বছর $5%$ হয়, তাহলে $25,000$ টাকার দুই বছরের সুদ নির্ণয় কর।"
+            },
+            {
+              "label": "(ii)",
+              "text": "তিনবন্ধু $4,800$ টাকা, $6,600$ টাকা ও $9,600$ টাকা নিয়ে একটি যৌথ ব্যবসা শুরু করল। প্রথম জন দেখা শোনার জন্য লাভের $\\frac{1}{8}$ অংশ বেতন হিসাবে পেল এবং বাকি লাভ মূলধনের অনুপাতে বণ্টিত হল। এক বছর পর প্রথমজন $780$ টাকা পেলে বাকি দুজন কত টাকা করে পাবে।"
+            }
+          ],
+          "subMCQs": [],
+          "tableText": "",
+          "diagramNote": ""
+        }
+      ]
+    },
+    {
+      "id": "sec_6",
+      "name": "",
+      "marks": "",
+      "questions": [
+        {
+          "id": "q_6_1",
+          "type": "laq",
+          "number": "6",
+          "heading": "যে কোন একটি প্রশ্নের উত্তর দাও :",
+          "headingMarks": "3",
+          "text": "",
+          "options": [],
+          "alt": "",
+          "altText": "",
+          "marks": "",
+          "matchA": [],
+          "matchB": [],
+          "subQuestions": [
+            {
+              "label": "(i)",
+              "text": "সমাধান কর : $b(c-a)x^{2}+c(a-b)x+a(b-c)=0$"
+            },
+            {
+              "label": "(ii)",
+              "text": "দুই অঙ্কের একটি সংখ্যার দশকের অঙ্ক এককের অঙ্ক অপেক্ষা $3$ কম। অঙ্কদ্বয়ের গুণফল সংখ্যাটি থেকে $15$ কম। সংখ্যাটি নির্ণয় কর।"
+            }
+          ],
+          "subMCQs": [],
+          "tableText": "",
+          "diagramNote": ""
+        }
+      ]
+    },
+    {
+      "id": "sec_7",
+      "name": "",
+      "marks": "",
+      "questions": [
+        {
+          "id": "q_7_1",
+          "type": "laq",
+          "number": "7",
+          "heading": "যে কোন একটি প্রশ্নের উত্তর দাও :",
+          "headingMarks": "3",
+          "text": "",
+          "options": [],
+          "alt": "",
+          "altText": "",
+          "marks": "",
+          "matchA": [],
+          "matchB": [],
+          "subQuestions": [
+            {
+              "label": "(i)",
+              "text": "$(x^{3}+y^{3})\\propto(x^{3}-y^{3})$ হলে, দেখাও যে $(x^{2}+y^{2})\\propto xy$"
+            },
+            {
+              "label": "(ii)",
+              "text": "$x(2-\\sqrt{3})=y(2+\\sqrt{3})=1$ হলে $3x^{2}-5xy+3y^{2}$ এর মান নির্ণয় কর।"
+            }
+          ],
+          "subMCQs": [],
+          "tableText": "",
+          "diagramNote": ""
+        }
+      ]
+    },
+    {
+      "id": "sec_8",
+      "name": "",
+      "marks": "",
+      "questions": [
+        {
+          "id": "q_8_1",
+          "type": "laq",
+          "number": "8",
+          "heading": "যে কোন একটি প্রশ্নের উত্তর দাও:",
+          "headingMarks": "3",
+          "text": "",
+          "options": [],
+          "alt": "",
+          "altText": "",
+          "marks": "",
+          "matchA": [],
+          "matchB": [],
+          "subQuestions": [
+            {
+              "label": "(i)",
+              "text": "$\\frac{a+b-c}{a+b}=\\frac{b+c-a}{b+c}=\\frac{c+a-b}{c+a}$ এবং $a+b+c\\neq 0$ হলে প্রমাণ কর যে $a=b=c$"
+            },
+            {
+              "label": "(ii)",
+              "text": "$x=\\frac{8ab}{a+b}$ হলে, $\\frac{x+4a}{x-4a}+\\frac{x+4b}{x-4b}$ এর মান নির্ণয় কর।"
+            }
+          ],
+          "subMCQs": [],
+          "tableText": "",
+          "diagramNote": ""
+        }
+      ]
+    },
+    {
+      "id": "sec_9",
+      "name": "",
+      "marks": "",
+      "questions": [
+        {
+          "id": "q_9_1",
+          "type": "laq",
+          "number": "9",
+          "heading": "যে কোন একটি প্রশ্নের উত্তর দাও:",
+          "headingMarks": "5",
+          "text": "",
+          "options": [],
+          "alt": "",
+          "altText": "",
+          "marks": "",
+          "matchA": [],
+          "matchB": [],
+          "subQuestions": [
+            {
+              "label": "(i)",
+              "text": "প্রমাণ কর কোন বৃত্তের একটি বৃত্ত চাপের দ্বারা গঠিত সম্মুখ কেন্দ্রস্থ কোণ ঐ চাপের দ্বারা গঠিত যে কোন বৃত্তস্থ কোণের দ্বিগুণ।"
+            },
+            {
+              "label": "(ii)",
+              "text": "প্রমাণ কর যে দুটি বৃত্ত পরস্পরকে স্পর্শ করলে স্পর্শ বিন্দুটি কেন্দ্র দুটির সংযোজক সরল রেখাংশের উপর অবস্থিত হবে।"
+            }
+          ],
+          "subMCQs": [],
+          "tableText": "",
+          "diagramNote": ""
+        }
+      ]
+    },
+    {
+      "id": "sec_10",
+      "name": "",
+      "marks": "",
+      "questions": [
+        {
+          "id": "q_10_1",
+          "type": "laq",
+          "number": "10",
+          "heading": "যে কোন একটি প্রশ্নের উত্তর দাও:",
+          "headingMarks": "3",
+          "text": "একটি সমবাহু ত্রিভুজ ABC-এর ∠B সমকোণ। ∠BAC-এর সমদ্বিখণ্ডক BC কে D বিন্দুতে ছেদ করে। প্রমাণ করো CD² = 2BD².",
+          "options": [],
+          "alt": "",
+          "altText": "",
+          "marks": "",
+          "matchA": [],
+          "matchB": [],
+          "subQuestions": [
+            {
+              "label": "(i)",
+              "text": "একটি সমদ্বিবাহু ত্রিভুজ $ABC$ এর $\\angle B$ সমকোণ। $\\angle BAC$ এর সমদ্বিখণ্ডক $BC$ কে $D$ বিন্দুতে ছেদ করেছে। প্রমাণ কর যে $CD^{2}=2BD^{2}$."
+            },
+            {
+              "label": "(ii)",
+              "text": "$ABCD$ আয়তক্ষেত্রের অভ্যন্তরে $O$ একটি বিন্দু, প্রমাণ কর যে $OA^{2}+OC^{2}=OD^{2}+OB^{2}$."
+            }
+          ],
+          "subMCQs": [],
+          "tableText": "",
+          "diagramNote": ""
+        }
+      ]
+    },
+    {
+      "id": "sec_11",
+      "name": "",
+      "marks": "",
+      "questions": [
+        {
+          "id": "q_11_1",
+          "type": "saq",
+          "number": "11",
+          "heading": "যে কোন একটি প্রশ্নের উত্তর দাও:",
+          "headingMarks": "5",
+          "text": "",
+          "options": [],
+          "alt": "",
+          "altText": "",
+          "marks": "",
+          "matchA": [],
+          "matchB": [],
+          "subQuestions": [
+            {
+              "label": "(i)",
+              "text": "$\\Delta ABC$ এর ভূমি $BC=6$ সেমি, $\\angle ABC=60^{\\circ}$ ও $AB=8$ সেমি। ঐ ত্রিভুজের পরিবৃত্ত অঙ্কন কর।"
+            },
+            {
+              "label": "(ii)",
+              "text": "$6$ সেমি বাহু বিশিষ্ট একটি সমবাহু ত্রিভুজের সমান ক্ষেত্রফল বিশিষ্ট একটি বর্গক্ষেত্র অঙ্কন কর।"
+            }
+          ],
+          "subMCQs": [],
+          "tableText": "",
+          "diagramNote": ""
+        }
+      ]
+    },
+    {
+      "id": "sec_12",
+      "name": "",
+      "marks": "",
+      "questions": [
+        {
+          "id": "q_12_1",
+          "type": "saq",
+          "number": "12",
+          "heading": "যে কোন দুটি প্রশ্নের উত্তর দাও:",
+          "headingMarks": "$3  \\times 2 = 6$",
+          "text": "",
+          "options": [],
+          "alt": "",
+          "altText": "",
+          "marks": "",
+          "matchA": [],
+          "matchB": [],
+          "subQuestions": [
+            {
+              "label": "(i)",
+              "text": "একটি ত্রিভুজের কোণ তিনটির অনুপাত $2:3:4$ হলে ত্রিভুজটির বৃহত্তম কোণটির বৃত্তীয় মান নির্ণয় কর।"
+            },
+            {
+              "label": "(ii)",
+              "text": "যদি $\\tan\\theta=\\frac{4}{3}$ হয় তাহলে $\\sin\\theta+\\cos\\theta$ এর মান নির্ণয় কর।"
+            },
+            {
+              "label": "(iii)",
+              "text": "$A$ ও $B$ দুটি পরস্পর পূরক কোণ হলে প্রমাণ কর যে $(\\sin A+\\cos B)^{2}=1+2\\sin A\\sin B$"
+            }
+          ],
+          "subMCQs": [],
+          "tableText": "",
+          "diagramNote": ""
+        }
+      ]
+    },
+    {
+      "id": "sec_13",
+      "name": "",
+      "marks": "",
+      "questions": [
+        {
+          "id": "q_13_1",
+          "type": "laq",
+          "number": "13",
+          "heading": "যে কোন একটি প্রশ্নের উত্তর দাও:",
+          "headingMarks": "5",
+          "text": "",
+          "options": [],
+          "alt": "",
+          "altText": "",
+          "marks": "",
+          "matchA": [],
+          "matchB": [],
+          "subQuestions": [
+            {
+              "label": "(i)",
+              "text": "একটি বাড়ীর ছাদ থেকে একটি ল্যাম্পপোষ্টের চূড়া ও পাদবিন্দুর অবনতি কোণ যথাক্রমে $30^{\\circ}$ ও $\\theta$। বাড়ী ও ল্যাম্পপোষ্টের উচ্চতার অনুপাত $3:2$ হলে $\\theta$ এর মান নির্ণয় কর।"
+            },
+            {
+              "label": "(ii)",
+              "text": "একটি টিলার পাদদেশ থেকে তার শীর্ষের উন্নতি কোণ $45^{\\circ}$। টিলার দিকে $30^{\\circ}$ ঢাল বেয়ে $100$ মিটার যাওয়ার পর উন্নতি কোণ হয় $60^{\\circ}$, টিলাটির উচ্চতা নির্ণয় কর।"
+            }
+          ],
+          "subMCQs": [],
+          "tableText": "",
+          "diagramNote": ""
+        }
+      ]
+    },
+    {
+      "id": "sec_14",
+      "name": "",
+      "marks": "",
+      "questions": [
+        {
+          "id": "q_14_1",
+          "type": "laq",
+          "number": "14",
+          "heading": "যে কোন দুটি প্রশ্নের উত্তর দাও:",
+          "headingMarks": "$4  \\times 2 = 8$",
+          "text": "",
+          "options": [],
+          "alt": "",
+          "altText": "",
+          "marks": "",
+          "matchA": [],
+          "matchB": [],
+          "subQuestions": [
+            {
+              "label": "(i)",
+              "text": "একটি নিরেট আয়ত ঘনকের দৈর্ঘ্য প্রস্থ ও উচ্চতার অনুপাত $4:3:2$ এবং সমগ্রতলের ক্ষেত্রফল $468$ বর্গসেমি, আয়ত ঘনকের আয়তন নির্ণয় কর।"
+            },
+            {
+              "label": "(ii)",
+              "text": "$20$ সেমি উচ্চতা বিশিষ্ট একটি ফাঁপা চোঙের অন্তর্ব্যাসার্ধ ও বহিব্যাসার্ধ যথাক্রমে $4$ সেমি ও $5$ সেমি। ঐ চোঙটিকে গলিয়ে চোঙের এক তৃতীয়াংশ উচ্চতা বিশিষ্ট একটি নিরেট শঙ্কু তৈরী করা হল, শঙ্কুর ভূমিতলের ব্যাস নির্ণয় কর।"
+            },
+            {
+              "label": "(iii)",
+              "text": "$9$ সেমি দৈর্ঘ্যের অন্তর্ব্যাসার্ধ বিশিষ্ট অর্ধগোলাকার পাত্র জলপূর্ণ আছে। ঐ জল $3$ সেমি ব্যাস ও $4$ সেমি উচ্চতা বিশিষ্ট চোঙাকৃতি বোতলে ভর্তি করা হল কতগুলি বোতল জলপূর্ণ হবে?"
+            }
+          ],
+          "subMCQs": [],
+          "tableText": "",
+          "diagramNote": ""
+        }
+      ]
+    },
+    {
+      "id": "sec_15",
+      "name": "",
+      "marks": "",
+      "questions": [
+        {
+          "id": "q_15_1",
+          "type": "table",
+          "number": "15",
+          "heading": "যে কোন দুটি প্রশ্নের উত্তর দাও :",
+          "headingMarks": "$4 \\times 2 = 8$",
+          "text": "",
+          "options": [],
+          "alt": "",
+          "altText": "",
+          "marks": "",
+          "matchA": [],
+          "matchB": [],
+          "subQuestions": [
+            {
+              "label": "(i)",
+              "text": "নীচের তথ্যের গড় নির্ণয় কর:"
+            }
+          ],
+          "subMCQs": [],
+          "tableText": "{\"headers\":[\"শ্রেণি পরিসংখ্যা\",\"$5-14$\",\"$15-24$\",\"$25-34$\",\"$35-44$\",\"$45-54$\",\"$55-64$\"],\"rows\":[[\"ছাত্রসংখ্যা\",\"$3$\",\"$6$\",\"$18$\",\"$20$\",\"$10$\",\"$3$\"]],\"orientation\":\"horizontal\"}",
+          "diagramNote": ""
+        },
+        {
+          "id": "q_1789914148626_2udty7",
+          "type": "table",
+          "number": "",
+          "heading": "",
+          "headingMarks": "",
+          "text": "",
+          "alt": "",
+          "altText": "",
+          "marks": "",
+          "options": [],
+          "matchA": [],
+          "matchB": [],
+          "subQuestions": [
+            {
+              "label": "(ii)",
+              "text": "প্রদত্ত তথ্যের ক্রমযৌগিক পরিসংখ্যা (বৃহত্তর সূচক) তালিকা তৈরি করে ছক কাগজে ওজাইভ অঙ্কন করঃ-"
+            }
+          ],
+          "subMCQs": [],
+          "tableText": "{\"headers\":[\"শ্রেণী\",\"$100-120$\",\"$120-140$\",\"$140-160$\",\"$160-180$\",\"$180-200$\"],\"rows\":[[\"পরিসংখ্যা\",\"$8$\",\"$14$\",\"$10$\",\"$12$\",\"$4$\"]],\"orientation\":\"horizontal\"}",
+          "diagramNote": ""
+        },
+        {
+          "id": "q_1789914455237_bsha15",
+          "type": "table",
+          "number": "",
+          "heading": "",
+          "headingMarks": "",
+          "text": "",
+          "alt": "",
+          "altText": "",
+          "marks": "",
+          "options": [],
+          "matchA": [],
+          "matchB": [],
+          "subQuestions": [
+            {
+              "label": "(iii)",
+              "text": "নীচের পরিসংখ্যা বিভাজন থেকে তথ্যটির সংখ্যা গুরুমান নির্ণয় কর:-"
+            }
+          ],
+          "subMCQs": [],
+          "tableText": "{  \"headers\": [\"প্রাপ্ত নম্বর\", \"$10$ এর কম\",\"$20$ এর কম\",\"$30$ এর কম\",\"$40$ এর কম\",\"$50$ এর কম\",\"$60$ এর কম\"],\"rows\": [[\"শিক্ষার্থী সংখ্যা\", \"$8$\", \"$15$\", \"$29$\", \"$42$\", \"$60$\",\"$70$\"]],\"orientation\":\"horizontal\"}",
+          "diagramNote": ""
+        }
+      ]
+    }
+  ]
+}
