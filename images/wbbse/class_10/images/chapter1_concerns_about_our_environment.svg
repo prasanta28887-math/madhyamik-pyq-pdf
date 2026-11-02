@@ -1,1 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">Chapter 1 — Concerns About Our Environment</title>
+  <desc id="desc">WBBSE Class 10 Madhyamik Physical Science, bilingual English and Bangla medium chapter banner.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#073b63"/>
+      <stop offset="0.52" stop-color="#087f8c"/>
+      <stop offset="1" stop-color="#21a675"/>
+    </linearGradient>
+    <linearGradient id="earth" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#b8f2d0"/>
+      <stop offset="1" stop-color="#48c78e"/>
+    </linearGradient>
+    <linearGradient id="leaf" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#c9f99e"/>
+      <stop offset="1" stop-color="#42bd76"/>
+    </linearGradient>
+    <filter id="shadow" x="-25%" y="-25%" width="150%" height="150%">
+      <feDropShadow dx="0" dy="7" stdDeviation="9" flood-color="#002b40" flood-opacity=".24"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="420" rx="28" fill="url(#bg)"/>
+  <circle cx="1090" cy="50" r="190" fill="#ffffff" opacity=".055"/>
+  <circle cx="30" cy="390" r="170" fill="#ffffff" opacity=".045"/>
+  <path d="M0 330 C190 270 290 430 500 365 S850 285 1200 350 V420 H0Z" fill="#ffffff" opacity=".055"/>
+
+  <!-- Decorative science/environment motifs -->
+  <g opacity=".16" fill="none" stroke="#d9fff0" stroke-width="3">
+    <circle cx="1010" cy="340" r="34"/>
+    <circle cx="1010" cy="340" r="55"/>
+    <path d="M1010 276 V295 M1010 385 V404 M946 340 H965 M1055 340 H1074"/>
+    <path d="M910 90 l18 -18 l18 18 l-18 18Z"/>
+    <path d="M1125 180 l14 -14 l14 14 l-14 14Z"/>
+  </g>
+
+  <!-- Earth and leaf illustration -->
+  <g transform="translate(70 70)" filter="url(#shadow)">
+    <circle cx="145" cy="140" r="118" fill="#e6fff4" opacity=".18"/>
+    <circle cx="145" cy="140" r="101" fill="url(#earth)" stroke="#eafff4" stroke-width="7"/>
+    <path d="M74 107 C92 78 123 76 139 91 C149 103 136 119 119 123 C103 128 92 145 74 142 C60 137 61 120 74 107Z" fill="#168b68"/>
+    <path d="M151 64 C181 54 207 69 213 91 C218 111 198 120 181 112 C165 105 153 116 143 104 C131 90 135 73 151 64Z" fill="#168b68"/>
+    <path d="M161 143 C187 124 219 137 221 162 C223 183 200 193 183 184 C169 177 151 190 139 176 C126 161 141 151 161 143Z" fill="#168b68"/>
+    <path d="M75 169 C96 153 120 163 122 185 C124 205 103 219 85 207 C67 196 59 182 75 169Z" fill="#168b68"/>
+    <path d="M145 39 C145 10 173 -9 202 2 C193 31 174 48 145 52Z" fill="url(#leaf)" stroke="#eafff4" stroke-width="4"/>
+    <path d="M145 51 C164 33 181 18 198 7" fill="none" stroke="#effff5" stroke-width="3" stroke-linecap="round"/>
+    <path d="M220 217 C247 192 278 199 285 226 C263 245 236 244 220 217Z" fill="url(#leaf)" stroke="#eafff4" stroke-width="4"/>
+    <path d="M224 219 L278 226" stroke="#effff5" stroke-width="3" stroke-linecap="round"/>
+  </g>
+
+  <!-- Main title block -->
+  <g font-family="Arial, 'Noto Sans Bengali', sans-serif">
+    <rect x="340" y="48" width="245" height="42" rx="21" fill="#ffffff" opacity=".16"/>
+    <text x="462" y="76" text-anchor="middle" fill="#ffffff" font-size="21" font-weight="700" letter-spacing="1.6">WBBSE • CLASS 10</text>
+
+    <text x="340" y="145" fill="#ffffff" font-size="48" font-weight="800" letter-spacing="-.8">Chapter 1</text>
+    <text x="340" y="205" fill="#ffffff" font-size="43" font-weight="800" letter-spacing="-.7">Concerns About Our Environment</text>
+    <text x="342" y="258" fill="#e5fff3" font-size="38" font-weight="700">পরিবেশের জন্য ভাবনা</text>
+
+    <g transform="translate(342 292)">
+      <rect width="225" height="43" rx="21.5" fill="#ffffff" opacity=".17"/>
+      <text x="112.5" y="28" text-anchor="middle" fill="#ffffff" font-size="19" font-weight="700">PHYSICAL SCIENCE</text>
+      <rect x="240" width="255" height="43" rx="21.5" fill="#ffffff" opacity=".17"/>
+      <text x="367.5" y="28" text-anchor="middle" fill="#ffffff" font-size="17" font-weight="700">ENGLISH &amp; BANGLA MEDIUM</text>
+    </g>
+  </g>
+
+  <!-- Footer -->
+  <path d="M340 365 H1120" stroke="#d7fff0" stroke-width="2" opacity=".3"/>
+  <text x="340" y="394" fill="#eafff4" font-family="Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="1.3">LEARNING SCIENCE  •  learningscience.co.in</text>
+
+  <!-- Small environment badge -->
+  <g transform="translate(1000 70)" filter="url(#shadow)">
+    <rect width="150" height="42" rx="21" fill="#ffb43b"/>
+    <text x="75" y="27" text-anchor="middle" fill="#173d45" font-family="Arial, sans-serif" font-size="15" font-weight="700">WBBSE SYLLABUS</text>
+  </g>
+</svg>
 
