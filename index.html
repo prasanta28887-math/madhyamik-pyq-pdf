@@ -654,12 +654,15 @@
       st.rPages.add(n);
       try {
         const pg = await st.pdf.getPage(n), vp = pg.getViewport({ scale: st.scale, rotation: st.rot });
-        const dpr = Math.min(window.devicePixelRatio || 1, 2.2);
+        const rawScale = Math.max((window.devicePixelRatio || 1) * 1.6, 1900 / Math.max(vp.width, 1), 2.4);
+        const dpr = Math.min(rawScale, 3800 / Math.max(vp.width, vp.height, 1), 3.5);
         sh.style.width = `${Math.floor(vp.width)}px`; sh.style.height = `${Math.floor(vp.height)}px`;
         const cv = sh.querySelector('canvas');
         cv.width = Math.floor(vp.width * dpr); cv.height = Math.floor(vp.height * dpr);
         cv.style.width = `${Math.floor(vp.width)}px`; cv.style.height = `${Math.floor(vp.height)}px`;
-        const tk = pg.render({ canvasContext: cv.getContext('2d', { alpha: false }), viewport: vp, transform: dpr !== 1 ? [dpr,0,0,dpr,0,0] : null });
+        const ctx = cv.getContext('2d', { alpha: false });
+        ctx.imageSmoothingEnabled = true; ctx.imageSmoothingQuality = 'high';
+        const tk = pg.render({ canvasContext: ctx, viewport: vp, transform: dpr !== 1 ? [dpr,0,0,dpr,0,0] : null });
         st.tasks.set(n, tk); await tk.promise; st.tasks.delete(n);
         const tl = sh.querySelector('.textLayer'); tl.innerHTML = '';
         tl.style.width = `${Math.floor(vp.width)}px`; tl.style.height = `${Math.floor(vp.height)}px`;
