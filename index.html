@@ -431,6 +431,105 @@
       .workspace, .viewer-container { height: auto !important; overflow: visible !important; padding: 0 !important; }
       .page-shell { box-shadow: none !important; page-break-after: always; }
     }
+
+
+    /* === Responsive Header & Blogger Embed Fix === */
+    html, body {
+      display: flex;
+      flex-direction: column;
+    }
+    .workspace {
+      flex: 1;
+      min-height: 0;
+      height: auto;
+    }
+    .toolbar {
+      height: auto;
+      min-height: 50px;
+      padding: 6px 10px;
+      gap: 6px;
+      flex-wrap: nowrap;
+      overflow-x: auto;
+      scrollbar-width: none;
+    }
+    .toolbar::-webkit-scrollbar { display: none; }
+    .toolbar-group {
+      flex-shrink: 0;
+      gap: 5px;
+    }
+    .btn, .page-nav, select.tb-select {
+      flex-shrink: 0;
+      white-space: nowrap;
+    }
+    .page-nav {
+      padding: 2px 8px;
+      gap: 4px;
+    }
+    .page-nav span {
+      white-space: nowrap;
+    }
+    .page-nav input {
+      width: 34px;
+      background: transparent !important;
+      -moz-appearance: textfield;
+      appearance: textfield;
+    }
+    .page-nav input::-webkit-outer-spin-button,
+    .page-nav input::-webkit-inner-spin-button {
+      -webkit-appearance: none;
+      margin: 0;
+    }
+    select.tb-select {
+      max-width: 105px;
+      padding: 0 6px;
+    }
+
+    /* Blogger PC column & Tablet (<= 960px): Hide brand text while reading PDF */
+    @media (max-width: 960px) {
+      body:not(.mode-library) .brand { display: none !important; }
+      .divider { display: none; }
+    }
+
+    /* Mobile & Narrow Blogger Embed (<= 640px): Clean 2-row header, zero cutting */
+    @media (max-width: 640px) {
+      .toolbar {
+        flex-wrap: wrap;
+        justify-content: center;
+        overflow-x: visible;
+        padding: 7px 6px;
+        gap: 6px 8px;
+      }
+      .btn {
+        height: 32px;
+        min-width: 32px;
+        padding: 0 7px;
+        font-size: 12px;
+      }
+      .page-nav, select.tb-select {
+        height: 32px;
+        font-size: 12px;
+      }
+      .search-bar {
+        top: 94px;
+      }
+    }
+
+    /* Mobile Sidebar Slide Fix */
+    @media (max-width: 860px) {
+      .sidebar {
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        height: 100%;
+        margin-left: 0 !important;
+        transform: translateX(0);
+        transition: transform 0.22s ease;
+      }
+      .sidebar.collapsed {
+        transform: translateX(-105%);
+      }
+    }
   </style>
 </head>
 <body class="mode-library">
